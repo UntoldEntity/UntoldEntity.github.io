@@ -34,7 +34,7 @@ body {
 }
 
 .emboss-txt::after {
-    content: "MOIST";
+    content: "GOT U LOL";
     font-size: 55px;
     letter-spacing: 2px;
     font-family: Work Sans;
@@ -42,20 +42,20 @@ body {
     top: 0;
     left: 0;
     text-shadow: 0px 0px 20px rgba(11, 124, 199, 0.5);
-    animation: cycle 10s linear infinite
+    animation: cycle 300ms linear infinite
 }
 
 @keyframes cycle {
     0% {
-        text-shadow: 0px 0px 20px rgba(255, 150, 150, 0.9);
+        text-shadow: 0px 0px 20px rgb(255, 0, 0);
     }
     33% {
-        text-shadow: 0px 0px 20px rgba(150, 255, 150, .9);
+        text-shadow: 0px 0px 20px rgb(0, 255, 0);
     }
     66% {
-        text-shadow: 0px 0px 20px rgba(150, 150, 255, .9);
+        text-shadow: 0px 0px 20px rgb(0, 0, 255);
     }
     100% {
-        text-shadow: 0px 0px 20px rgba(255, 150, 150, .9);
+        text-shadow: 0px 0px 20px rgb(255, 0, 0);
     }
 }
