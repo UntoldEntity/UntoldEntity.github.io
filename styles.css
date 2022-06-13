@@ -8,6 +8,9 @@
 }
 
 body {
+    background-image: url("https://media2.giphy.com/media/Ju7l5y9osyymQ/200.gif");
+    background-size: 200px;
+    background-position: center;
     background-color: rgb(42, 41, 44);
     text-align: center;
     align-items: center;
@@ -23,7 +26,7 @@ body {
     letter-spacing: 2px;
     color: rgb(241, 241, 255);
     text-shadow: 0px 0px 1px grey, 0px 1px 1px grey, 0px 2px 1px grey, 1px 1px 1px grey, 1px 2px 1px grey, 1px 3px 1px grey, 2px 2px 1px grey, 2px 3px 1px grey, 2px 4px 1px grey, /*long soft bottom*/
-    1px 10px 30px rgba(0, 0, 0, 0.8), 1px 10px 70px rgba(0, 0, 0, 0.8), /*short soft bottom*/
+    1px 10px 25px rgba(0, 0, 0, 0.8), 1px 10px 40px rgba(0, 0, 0, 0.8), /*short soft bottom*/
     0px 5px 5px rgba(0, 0, 0, 0.8), /*left shadow*/
     -5px 5px 20px rgba(0, 0, 0, 0.8), /*right shadow*/
     5px 5px 20px rgba(0, 0, 0, 0.8), /*white light*/
