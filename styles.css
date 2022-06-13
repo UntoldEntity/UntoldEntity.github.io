@@ -34,7 +34,7 @@ body {
 }
 
 .emboss-txt::after {
-    content: "UNTOLDENTITY";
+    content: "MOIST";
     font-size: 55px;
     letter-spacing: 2px;
     font-family: Work Sans;
@@ -47,15 +47,15 @@ body {
 
 @keyframes cycle {
     0% {
-        text-shadow: 0px 0px 20px rgba(255, 150, 150, 0.75);
+        text-shadow: 0px 0px 20px rgba(255, 150, 150, 0.9);
     }
     33% {
-        text-shadow: 0px 0px 20px rgba(150, 255, 150, .75);
+        text-shadow: 0px 0px 20px rgba(150, 255, 150, .9);
     }
     66% {
-        text-shadow: 0px 0px 20px rgba(150, 150, 255, .75);
+        text-shadow: 0px 0px 20px rgba(150, 150, 255, .9);
     }
     100% {
-        text-shadow: 0px 0px 20px rgba(255, 150, 150, .75);
+        text-shadow: 0px 0px 20px rgba(255, 150, 150, .9);
     }
 }
