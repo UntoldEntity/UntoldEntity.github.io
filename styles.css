@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url("https://media2.giphy.com/media/Ju7l5y9osyymQ/200.gif");
+    background-image: url("https://media.tenor.com/c6WHv1wrk_UAAAAM/stick-bug-get-stick-bugged.gif");
     background-size: 200px;
     background-position: center;
     background-color: rgb(42, 41, 44);
@@ -34,7 +34,7 @@ body {
 }
 
 .emboss-txt::after {
-    content: "GOT U LOL";
+    content: "GET STICK BUGGED";
     font-size: 55px;
     letter-spacing: 2px;
     font-family: Work Sans;
